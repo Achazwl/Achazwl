@@ -35,6 +35,6 @@
   </a>
   -->
   <a href="https://github.com/Achazwl">
-    <img src="https://badges.pufler.dev/commits/monthly/Achazwl?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/all/Achazwl?style=flat-square&color=black&logo=github">
   </a>
 </p>
