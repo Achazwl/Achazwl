@@ -18,23 +18,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Achazwl&title_color=333&text_color=777" alt="Achazwl's Stats" >
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Achazwl">
-    <img src="https://badges.pufler.dev/visits/Achazwl/Achazwl?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Achazwl">
-    <img src="https://badges.pufler.dev/years/Achazwl?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Achazwl?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Achazwl?style=flat-square&color=black&logo=github">
-  </a>
-  <!--
-  <a href="https://gist.github.com/Achazwl">
-    <img src="https://badges.pufler.dev/gists/Achazwl?style=flat-square&color=black&logo=github">
-  </a>
-  -->
-  <a href="https://github.com/Achazwl">
-    <img src="https://badges.pufler.dev/commits/all/Achazwl?style=flat-square&color=black&logo=github">
-  </a>
-</p>
