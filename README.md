@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Achazwl" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Achazwl" ></br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achazwl" ></br>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Achazwl" ></br>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Achazwl" ></br>
   </a>
 </p>
